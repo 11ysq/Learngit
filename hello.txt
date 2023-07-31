@@ -1,7 +1,9 @@
 I want to write a line code
 public static void main(String[] args){
-    int a = 0;
+    int a = 1;
     int b = 1;
     int c = a+b;
+    int d = a+b+c;
     System.out.println(a+"+"+b+"="+c);
+
 }
