@@ -5,6 +5,8 @@ public static void main(String[] args){
     int c = a+b;
     int d = a+b+c;
     int f = c+d;
+    int e = 5;
+    a=100;
     System.out.println(a+"+"+b+"="+c);
 
 }
