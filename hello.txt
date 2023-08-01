@@ -8,6 +8,8 @@ public static void main(String[] args){
     int e = 5;
     a=100;
     int g = 1;
+    int h = 1;
+    int i++;
     System.out.println(a+"+"+b+"="+c);
 
 }
