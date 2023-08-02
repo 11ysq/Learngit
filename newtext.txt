@@ -1,7 +1,4 @@
 I have many friends
 yes
-<<<<<<< HEAD
 this is a main branch
-=======
 I want add a line
->>>>>>> fear
