@@ -1,2 +1,3 @@
 I have many friends
 yes
+no
